@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,21 +30,21 @@
   
   <url>
     <loc>http://example.com/tags/link-map%E5%8A%AB%E6%8C%81/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Dirty-PageTable/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/kernel/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -53,14 +53,14 @@
   
   <url>
     <loc>http://example.com/categories/ctf/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/ctf/wp/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
